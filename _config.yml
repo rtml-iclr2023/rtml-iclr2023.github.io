@@ -1,0 +1,25 @@
+title:       Security and Safety in Machine Learning Systems 
+description: Workshop at ICLR 2021
+
+# timezone: Europe/Zurich
+
+navigation:
+  Home: "/"
+  Call for Papers: "/cfp"
+  Schedule: "/schedule"
+  Speakers: "/speakers"
+  # Accepted Papers: "/papers"
+  Organizers: "/organizers"
+  Program Committee: "/committee"
+  # FAQ: "/faq"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
