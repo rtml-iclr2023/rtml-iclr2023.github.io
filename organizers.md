@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Organizers
+
 |<img src="./assets/images/xinyun.jpg" alt="Xinyun Chen" width="225"/>|<img src="./assets/images/cihang.jpg" alt="Cihang Xie" width="225"/>|<img src="./assets/images/ali.jpg" alt="Ali Shafahi" width="225"/>|
 |[Xinyun Chen](https://jungyhuk.github.io/)<br />UC Berkeley|[Cihang Xie](https://cihangxie.github.io/)<br />UC Santa Cruz|[Ali Shafahi](https://www.cs.umd.edu/~ashafahi/)<br />University of Maryland|
 |<img src="./assets/images/boli.png" alt="Bo Li" width="225"/>|<img src="./assets/images/ding_zhao.jpg" alt="Ding Zhao" width="225"/>|<img src="./assets/images/tom.jpg" alt="Tom Goldstein" width="225"/>|<img src="./assets/images/dawn.png" alt="Dawn Song" width="225"/>|
