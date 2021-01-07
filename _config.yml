@@ -11,6 +11,7 @@ navigation:
   # Accepted Papers: "/papers"
   Organizers: "/aml-iclr2021/organizers"
   Program Committee: "/aml-iclr2021/committee"
+  Previous Workshops: "/aml-iclr2021/previous"
   # FAQ: "/faq"
 
 markdown: kramdown

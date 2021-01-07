@@ -5,12 +5,12 @@ layout: default
 # Speakers
 
 
-- Prof. Christopher Ré (Stanford University) 
-- Prof. Zico Kolter (Carnegie Mellon University) 
-- Prof. Raquel Urtasun (University of Toronto/Uber)
-- Prof. David Wagner (UC Berkeley)
-- Prof. Aleksander Madry (Massachusetts Institute of Technology)
-- Prof. Alina Oprea (Northeastern University)
-- Prof. Alan Yuille (Johns Hopkins University)
-- Dr. Catherine Olsson (Open Philanthropy)
+- Zico Kolter (Carnegie Mellon University)
+- Raquel Urtasun (University of Toronto/Uber)
+- David Wagner (UC Berkeley)
+- Alina Oprea (Northeastern University)
+- Aleksander Madry (Massachusetts Institute of Technology)
+- Alan Yuille (Johns Hopkins University)
+- Christopher Ré (Stanford University)
+- Catherine Olsson (Open Philanthropy)
 - Aditi Raghunathan (Stanford University)
