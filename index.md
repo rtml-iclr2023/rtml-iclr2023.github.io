@@ -5,7 +5,7 @@ layout: default
 
 # Overview
 
-| **Date** | May 8, 2021 |
+| **Date** | May 7, 2021 |
 | **Location** | The workshop will be held *virtually*. |
 
 

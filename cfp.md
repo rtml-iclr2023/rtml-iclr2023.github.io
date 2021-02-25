@@ -14,7 +14,7 @@ layout: default
 <table class="foo">  
   <tr>
     <td width="30%"><b>Submission Deadline</b></td>
-    <td width="70%">February 26, 2021 Anywhere on Earth (AoE)</td>
+    <td width="70%"><del>February 26 </del> March 7, 2021 Anywhere on Earth (AoE)</td>
   </tr>
   <tr>
     <td><b>Author notification</b></td>
