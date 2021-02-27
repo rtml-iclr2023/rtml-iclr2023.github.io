@@ -17,4 +17,4 @@ In this workshop, we aim to bridge the gap of these two communities and discuss 
 
 The workshop is sponsored by [Open Philanthropy](https://www.openphilanthropy.org/). The funding will cover a best paper award ($1,000) and multiple travel grants (complementary ICLR conference registrations).
 
-<img src="./assets/images/OpenPhil.png" alt="Open Phil" width="225"/>
+<img src="./assets/images/OpenPhil.png" alt="Open Phil" width="350" class="center"/>
