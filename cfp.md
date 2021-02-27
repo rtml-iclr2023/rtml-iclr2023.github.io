@@ -48,4 +48,4 @@ We invite submissions on any aspect of ML security and safety. Topics include bu
 
 We only consider submissions that haven’t been published in any peer-reviewed venue, including ICLR 2021 conference. The workshop is non-archival and will not have any official proceedings. Based on the PC’s recommendation, the accepted papers will be allocated either a contributed talk or a poster presentation.
 
-<b>We will offer a best paper prize ($1,000) and several travel grants (complementary ICLR conference registrations), with the funding from [Open Philanthropy](https://www.openphilanthropy.org/).</b>
+<b>We will offer a best paper prize ($1,000) and several travel grants (complimentary ICLR conference registrations), with the funding from [Open Philanthropy](https://www.openphilanthropy.org/).</b>
