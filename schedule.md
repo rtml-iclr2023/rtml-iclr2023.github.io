@@ -12,7 +12,7 @@ these times to your local time zone.
 | **Time (PT)** | **Event** |
 | <span style="font-family: monospace;">08:45 am - 09:00 am</span> | Opening Remarks |
 ||**Session 1**|
-| <span style="font-family: monospace;">09:00 am - 09:35 am</span> | Invited Talk #1: Aleksander Madry|
+| <span style="font-family: monospace;">09:00 am - 09:35 am</span> | Invited Talk #1: Alina Oprea|
 | <span style="font-family: monospace;">09:35 am - 10:10 am</span> | Invited Talk #2: Raquel Urtasun|
 | <span style="font-family: monospace;">10:10 am - 10:20 am</span> | Contributed Talk #1 |
 ||**Session 2**|
@@ -23,7 +23,7 @@ these times to your local time zone.
 | <span style="font-family: monospace;">01:00 pm - 02:00 pm</span> | Lunch Break |
 ||**Session 3**|
 | <span style="font-family: monospace;">02:00 pm - 02:35 pm</span> | Invited Talk #5: Christopher Ré|
-| <span style="font-family: monospace;">02:35 pm - 03:10 pm</span> | Invited Talk #6: Alina Oprea|
+| <span style="font-family: monospace;">02:35 pm - 03:10 pm</span> | Invited Talk #6: Aleksander Madry|
 | <span style="font-family: monospace;">03:10 pm - 03:45 pm</span> | Invited Talk #7: David Wagner|
 | <span style="font-family: monospace;">03:45 pm - 03:55 pm</span> | Contributed Talk #2 |
 ||**Session 4**|
