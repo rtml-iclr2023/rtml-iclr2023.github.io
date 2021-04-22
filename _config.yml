@@ -6,9 +6,9 @@ description: Workshop at ICLR 2021
 navigation:
   Home: "/aml-iclr2021"
   Call for Papers: "/aml-iclr2021/cfp"
+  Accepted Papers: "/papers"
   Schedule: "/aml-iclr2021/schedule"
   Speakers: "/aml-iclr2021/speakers"
-  # Accepted Papers: "/papers"
   Organizers: "/aml-iclr2021/organizers"
   Program Committee: "/aml-iclr2021/committee"
   Related Workshops: "/aml-iclr2021/related"
