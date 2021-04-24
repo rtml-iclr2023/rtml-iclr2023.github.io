@@ -22,11 +22,11 @@ these times to your local time zone.
 | <span style="font-family: monospace;">12:00 pm - 01:00 pm</span> | Poster Session #1 |
 | <span style="font-family: monospace;">01:00 pm - 02:00 pm</span> | Lunch Break |
 ||**Session 3**|
-| <span style="font-family: monospace;">02:00 pm - 02:35 pm</span> | Invited Talk #5: David Wagner |
+| <span style="font-family: monospace;">02:00 pm - 02:35 pm</span> | Invited Talk #5: Ben Y. Zhao |
 | <span style="font-family: monospace;">02:35 pm - 03:10 pm</span> | Invited Talk #6: Aleksander Madry |
 | <span style="font-family: monospace;">03:10 pm - 03:20 pm</span> | Contributed Talk #2: Francesco Croce et al: RobustBench: a standardized adversarial robustness benchmark |
 ||**Session 4**|
 | <span style="font-family: monospace;">03:20 pm - 03:55 pm</span> | Invited Talk #7: Christopher Ré |
 | <span style="font-family: monospace;">03:55 pm - 04:30 pm</span> | Invited Talk #8: Aditi Raghunathan |
-| <span style="font-family: monospace;">04:30 pm - 05:00 pm</span> | Panel Discussion #2: Aleksander Madry, David Wagner, Aditi Raghunathan, Catherine Olsson |
+| <span style="font-family: monospace;">04:30 pm - 05:00 pm</span> | Panel Discussion #2: Aleksander Madry, Ben Y. Zhao, Aditi Raghunathan, Catherine Olsson |
 | <span style="font-family: monospace;">05:00 pm - 06:00 pm</span> | Poster Session #2 |
