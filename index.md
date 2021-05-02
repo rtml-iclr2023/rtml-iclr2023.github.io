@@ -6,7 +6,7 @@ layout: default
 # Overview
 
 | **Date** | May 7, 2021 |
-| **Location** | The workshop will be held *virtually*. The internal ICLR workshop website is [here](https://iclr.cc/virtual/2021/workshop/2127) (registration required).|
+| **Location** | The workshop will be held *virtually*. The internal ICLR workshop website is [here](https://iclr.cc/virtual/2021/workshop/2127) (ICLR registration required).|
 
 
 While machine learning (ML) models have achieved great success in many applications, concerns have been raised about their potential vulnerabilities and risks when applied to safety-critical applications. On the one hand, from the security perspective, studies have been conducted to explore worst-case attacks against ML models and therefore inspire both empirical and certifiable defense approaches. On the other hand, from the safety perspective, researchers have looked into safe constraints, which should be satisfied by safe AI systems (e.g., autonomous driving vehicles should not hit pedestrians).
