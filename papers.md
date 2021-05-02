@@ -4,7 +4,7 @@ layout: default
 
 # Accepted Papers
 
-- <b>Efficient Disruptions of Black-box Image Translation Deepfake Generation Systems</b> <br /> Nataniel Ruiz (Boston University); Sarah Bargal (Boston University); Stan Sclaroff (Boston University)
+- <b>[Efficient Disruptions of Black-box Image Translation Deepfake Generation Systems]("./assets/papers/1.pdf")</b> <br /> Nataniel Ruiz (Boston University); Sarah Bargal (Boston University); Stan Sclaroff (Boston University)
 - <b>Bridging the Gap Between Adversarial Robustness and Optimization Bias</b> <br /> Fartash Faghri (University of Toronto); Cristina Vasconcelos (Google); David J Fleet (University of Toronto); Fabian Pedregosa (Google); Nicolas Le Roux (Google)
 - <b>Covariate Shift Adaptation for Adversarially Robust Classifier</b> <br /> Jay Nandy (National University of Singapore); Sudipan Saha (Technical University of Munich); Wynne Hsu (National University of Singapore); Mong Li Lee (National University of Singapore); Xiaoxiang Zhu (Technical University of Munich,Germany)
 - <b>Poisoned classifiers are not only backdoored, they are fundamentally broken</b> <br /> Mingjie Sun (Carnegie Mellon University); Siddhant Agarwal (Indian Institute of Technology, Kharagpur); Zico Kolter (Carnegie Mellon University)
