@@ -16,7 +16,7 @@ these times to your local time zone.
 | <span style="font-family: monospace;">09:35 am - 10:10 am</span> | Invited Talk #2: Raquel Urtasun |
 | <span style="font-family: monospace;">10:10 am - 10:20 am</span> | Contributed Talk #1: Tian Li et al: Ditto: Fair and Robust Federated Learning Through Personalization |
 ||**Session 2**|
-| <span style="font-family: monospace;">10:20 am - 10:55 am</span> | Invited Talk #3: Zico Kolter |
+| <span style="font-family: monospace;">10:20 am - 10:55 am</span> | Invited Talk #3: David Wagner |
 | <span style="font-family: monospace;">10:55 am - 11:30 am</span> | Invited Talk #4: Alan Yuille |
 | <span style="font-family: monospace;">11:30 am - 12:00 pm</span> | Panel Discussion #1: Alina Oprea, Christopher Ré, Tom Goldstein, Adam Kortylewski |
 | <span style="font-family: monospace;">12:00 pm - 01:00 pm</span> | Poster Session #1 |
