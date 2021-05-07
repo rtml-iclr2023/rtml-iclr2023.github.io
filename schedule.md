@@ -21,8 +21,8 @@ these times to your local time zone.
 | <span style="font-family: monospace;">10:55 am - 11:30 am</span> | Invited Talk #4: Alan Yuille |
 | <span style="font-family: monospace;">11:30 am - 12:00 pm</span> | Panel Discussion #1: Alina Oprea, David Wagner, Christopher Ré, Adam Kortylewski |
 | <span style="font-family: monospace;">12:00 pm - 01:00 pm</span> | Poster Session #1 |
-| <span style="font-family: monospace;">01:00 pm - 01:25 pm</span> | Lunch Break |
-| <span style="font-family: monospace;">01:25 pm - 02:00 pm</span> | Invited Talk #5: Raquel Urtasun |
+| <span style="font-family: monospace;">01:00 pm - 01:20 pm</span> | Lunch Break |
+| <span style="font-family: monospace;">01:20 pm - 02:00 pm</span> | Invited Talk #5: Raquel Urtasun |
 ||**Session 3**|
 | <span style="font-family: monospace;">02:00 pm - 02:35 pm</span> | Invited Talk #6: Ben Y. Zhao |
 | <span style="font-family: monospace;">02:35 pm - 03:10 pm</span> | Invited Talk #7: Aleksander Madry |
